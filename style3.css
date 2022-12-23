@@ -1,0 +1,19 @@
+h1{
+    font-size:60px;
+    background-color:black;
+    text-align:center;
+    color:white;
+
+}
+h1{
+    margin:10px;
+    padding:10px;
+}
+p{
+    font-style:bold;
+}
+.conann-grey{
+    height: 920px;
+    width: 560px;
+    background: url('fav.jpg');
+}
